@@ -2273,7 +2273,7 @@ header a:hover {
     height: 2.777em;
     border-left: 1px solid rgba(255,255,255,0.2);
     text-indent: -9999em;
-    background: url("http://npmjs.com/images/ico-search.svg") no-repeat 50% 50%;
+    background: url("http://npmjs.com/static/images/ico-search.svg") no-repeat 50% 50%;
     background-size: 16px 16px;
   }
   .site-search input[type="submit"]:focus {
