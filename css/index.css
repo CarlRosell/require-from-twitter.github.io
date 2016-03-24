@@ -2132,6 +2132,8 @@ header a:hover {
 .icon-wombat-head-login {
   background-image: url("/images/twitter-logo.png");
   background-repeat: no-repeat;
+  background-size: 35px 29px;
+  background-position: center center;
   width: 45px;
   height: 45px;
   display: inline-block;
