@@ -519,8 +519,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 @font-face {
   font-family: "icomoon";
-  src: url("https://npmjs.com/static/fonts/icomoon.eot");
-  src: url("https://npmjs.com/static/fonts/icomoon.eot#iefix") format("embedded-opentype"), url("https://npmjs.com/static/fonts/icomoon.woff2") format("woff2"), url("https://npmjs.com/static/fonts/icomoon.woff") format("woff"), url("https://npmjs.com/static/fonts/icomoon.ttf") format("truetype");
+  src: url("/fonts/icomoon.eot");
+  src: url("/fonts/icomoon.eot#iefix") format("embedded-opentype"), url("/fonts/icomoon.woff2") format("woff2"), url("/fonts/icomoon.woff") format("woff"), url("/fonts/icomoon.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
